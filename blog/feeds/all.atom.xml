@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-09T12:08:00+08:00</updated><entry><title>協同產品設計實習 第2周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-2zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-09T12:08:00+08:00</published><updated>2017-03-09T12:08:00+08:00</updated><author><name>40423127</name></author><id>tag:,2017-03-09:./xie-tong-chan-pin-she-ji-shi-xi-di-2zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;四連桿機構組立&lt;/h2&gt;
+&lt;p&gt;===&lt;/p&gt;
+&lt;iframe src="./../data/w2/4bar.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+
+&lt;iframe src="https://player.vimeo.com/video/207495776" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207495776"&gt;springw1&lt;/a&gt; from &lt;a href="https://vimeo.com/user46458423"&gt;Fan chang zong&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
+##將機構放入v-rep
+===
+
+&lt;iframe src="https://player.vimeo.com/video/209230012" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209230012"&gt;vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user46458423"&gt;Fan chang zong&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
+##stunnel更改IP
+===
+
+&lt;iframe src="https://player.vimeo.com/video/209232625" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209232625"&gt;stunnel_ipchange&lt;/a&gt; from &lt;a href="https://vimeo.com/user46458423"&gt;Fan chang zong&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第3周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-3zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-09T12:08:00+08:00</published><updated>2017-03-09T12:08:00+08:00</updated><author><name>40423127</name></author><id>tag:,2017-03-09:./xie-tong-chan-pin-she-ji-shi-xi-di-3zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;小組翻譯影片&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/208468611" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/208468611"&gt;HyperWorks 14 - Novedades en armado y construcci&amp;oacute;n de modelos內建字幕&lt;/a&gt; from &lt;a href="https://vimeo.com/user46453244"&gt;40423118&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第4周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-4zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-09T12:08:00+08:00</published><updated>2017-03-09T12:08:00+08:00</updated><author><name>40423127</name></author><id>tag:,2017-03-09:./xie-tong-chan-pin-she-ji-shi-xi-di-4zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;將程式碼更改至start.bat&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/iwHK7Jl"&gt;&lt;img src="http://i.imgur.com/iwHK7Jl.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;建立個人fossil&lt;/h1&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/209238121" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209238121"&gt;fossil&lt;/a&gt; from &lt;a href="https://vimeo.com/user46458423"&gt;Fan chang zong&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="HW"></category></entry></feed>
