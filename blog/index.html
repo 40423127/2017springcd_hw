@@ -278,6 +278,44 @@ init_mathjax();
         <div class="col-sm-9">
 
             <article>
+                <h2><a href="./40423127-w15zu-yuan-xie-tong-lian-xi.html">40423127 W15組員協同練習</a></h2>
+                <div class="summary"><!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 繪圖-->
+
+<canvas id="onegear" width="800" height="600"></canvas>
+
+<div id="onegear_div" width="800" height="20"></div>
+
+<script type="text/python3">
+from browser import document as doc
+import math
+# deg 為角度轉為徑度的轉換因子
+deg = math.pi/180.
+# 定義 Spur 類別
+class Spur(object):
+    def __init__(self, ctx):
+        self.ctx = ctx
+
+    def create_line(self, x1, y1, x2, y2, width=3, fill ...</script></!--></!--></!-->
+                    <a class="btn btn-default btn-xs" href="./40423127-w15zu-yuan-xie-tong-lian-xi.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="./40423127-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html">40423127 四連桿機構協同 Trace Point 查驗</a></h2>
                 <div class="summary">
                     <a class="btn btn-default btn-xs" href="./40423127-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html">more ...</a>
@@ -337,6 +375,11 @@ init_mathjax();
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
+                        <a href="./40423127-w15zu-yuan-xie-tong-lian-xi.html">
+                            40423127 W15組員協同練習
+                        </a>
+                    </li>
+                    <li class="list-group-item">
                         <a href="./40423127-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html">
                             40423127 四連桿機構協同 Trace Point 查驗
                         </a>
@@ -354,11 +397,6 @@ init_mathjax();
                     <li class="list-group-item">
                         <a href="./xie-tong-chan-pin-she-ji-shi-xi-di-5zhou-zuo-ye.html">
                             協同產品設計實習 第5周作業
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./xie-tong-chan-pin-she-ji-shi-xi-di-2zhou-zuo-ye.html">
-                            協同產品設計實習 第2周作業
                         </a>
                     </li>
                 </ul>
