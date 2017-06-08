@@ -156,7 +156,7 @@ Spur(ctx).Gear(x, y, r, n, pa, "blue")
 
 ctx.fillStyle = "#0000FF"
 ctx.font = "30px ScriptS"
-ctx.fillText("40123127",(canvas.width)/2-60,(canvas.height)/2-25)
+ctx.fillText("40423127",(canvas.width)/2-60,(canvas.height)/2-25)
 ctx.stroke()
 
 ctx.beginPath()
@@ -187,7 +187,7 @@ brython({debug:1, pythonpath:['./../data/py']});
 
 &lt;!-- 以下實際利用  Brython 繪圖--&gt;
 
-&lt;canvas id="onegear1" width="600" height="400"&gt;&lt;/canvas&gt;
+&lt;canvas id="onegear1" width="800" height="600"&gt;&lt;/canvas&gt;
 
 &lt;div id="onegear1_div" width="800" height="20"&gt;&lt;/div&gt;
 
