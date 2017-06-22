@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/hw.atom.xml" rel="self"></link><id>./</id><updated>2017-06-01T10:30:00+08:00</updated><entry><title>40423127 W15組員協同練習</title><link href="./40423127-w15zu-yuan-xie-tong-lian-xi.html" rel="alternate"></link><published>2017-06-01T10:30:00+08:00</published><updated>2017-06-01T10:30:00+08:00</updated><author><name>40423127</name></author><id>tag:,2017-06-01:./40423127-w15zu-yuan-xie-tong-lian-xi.html</id><summary type="html">&lt;!-- 導入 Brython 標準程式庫 --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/hw.atom.xml" rel="self"></link><id>./</id><updated>2017-06-08T10:30:00+08:00</updated><entry><title>40423127 行走機構 影片</title><link href="./40423127-xing-zou-ji-gou-ying-pian.html" rel="alternate"></link><published>2017-06-08T10:30:00+08:00</published><updated>2017-06-08T10:30:00+08:00</updated><author><name>40423127</name></author><id>tag:,2017-06-08:./40423127-xing-zou-ji-gou-ying-pian.html</id><summary type="html">&lt;iframe src="https://player.vimeo.com/video/222340552" width="640" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>40423127 W15組員協同練習</title><link href="./40423127-w15zu-yuan-xie-tong-lian-xi.html" rel="alternate"></link><published>2017-06-01T10:30:00+08:00</published><updated>2017-06-01T10:30:00+08:00</updated><author><name>40423127</name></author><id>tag:,2017-06-01:./40423127-w15zu-yuan-xie-tong-lian-xi.html</id><summary type="html">&lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
 
@@ -167,7 +167,7 @@ ctx.lineTo(800,600)
 ctx.stroke()
 
 
-&lt;/script&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 w13作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w13zuo-ye.html" rel="alternate"></link><published>2017-05-19T12:08:00+08:00</published><updated>2017-05-19T12:08:00+08:00</updated><author><name>404231027</name></author><id>tag:,2017-05-19:./xie-tong-chan-pin-she-ji-shi-xi-w13zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/script&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 w13作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w13zuo-ye.html" rel="alternate"></link><published>2017-05-19T12:08:00+08:00</published><updated>2017-05-19T12:08:00+08:00</updated><author><name>40423127</name></author><id>tag:,2017-05-19:./xie-tong-chan-pin-she-ji-shi-xi-w13zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;繪製2D 正齒輪(17t-11t-13t-14t)&lt;/h2&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
